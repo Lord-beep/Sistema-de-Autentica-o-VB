@@ -1,0 +1,15 @@
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\bin\Debug\Users.mdf
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\bin\Debug\Users_log.ldf
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\bin\Debug\Login_For_a_button.exe.config
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\bin\Debug\Login_For_a_button.exe
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\bin\Debug\Login_For_a_button.pdb
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\bin\Debug\Login_For_a_button.xml
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.vbprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.Form1.resources
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.Form2.resources
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.Resources.resources
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.exe
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.xml
+C:\Users\Utilizador\Desktop\Login_For_a_button\Login_For_a_button\obj\Debug\Login_For_a_button.pdb
